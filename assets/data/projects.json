@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "type": "Web",
+    "title": "Cemetery Mapping and Information System",
+    "desc": "Made with Redux tools and JSON Web Token, and utilizing MongoDB, Express, Node.js, and React (MERN stack), this application helps people locate specific individuals and enables them to submit questions to cemetery administrators. It also makes it easier for cemetery administrators to change the availability or status of a tomb.",
+    "link": "https://github.com/Mark-WebHabit?tab=repositories&q=capstone_&type=&language=&sort="
+  },
+
+  {
+    "id": 2,
+    "type": "Web",
+    "title": "File Management",
+    "desc": "Created with the MERN stack (MongoDB, Express, Node.js, and React) to mimic the Windows File Explorer's basic operations (CRUD)",
+    "link": "https://github.com/Mark-WebHabit?tab=repositories&q=fms&type=&language=&sort="
+  },
+  {
+    "id": 3,
+    "type": "Desktop",
+    "title": "ClassFaX",
+    "desc": "Created with MySQL and VBnet, this desktop application tracks the past expenditures of the class fund as well as the upcoming project and facilitates the distribution and contribution of arriving and exiting monies within a classroom or group.",
+    "link": "https://github.com/Mark-WebHabit/classfax"
+  },
+  {
+    "id": 4,
+    "type": "Web",
+    "title": "Event Management",
+    "desc": "Designed with ReactJS and Firebase to facilitate the construction and administration of events for a certain school; it tracks attendance with a QR code and user responses, and it classifies students according to their year, course, and major.",
+
+    "link": "https://github.com/Mark-WebHabit/EventsManagement"
+  },
+  {
+    "id": 5,
+    "type": "Mobile",
+    "title": "Ez Pay",
+    "desc": "Designed to mimic the fundamental functions of an e-wallet with push notifications and authentication, utilizing Firebase and React Native.",
+
+    "link": "https://github.com/Mark-WebHabit/ezpay"
+  },
+  {
+    "id": 6,
+    "type": "Mobile",
+    "title": "Water Station Ordering",
+    "desc": "Designed to monitor an order's progress in a water station; built with Firebase and Reatc Native authentication",
+
+    "link": "https://github.com/Mark-WebHabit/h-two-0"
+  },
+  {
+    "id": 7,
+    "type": "Mobile",
+    "title": "POS",
+    "desc": "A customisable and user-friendly point-of-sale (POS) application created specifically for tablet devices using Firebase authentication and React Native",
+    "link": "https://github.com/Mark-WebHabit/ienstapos"
+  },
+  {
+    "id": 8,
+    "type": "Mobile",
+    "title": "DownSync App",
+    "desc": "The program is intended to teach children with down syndrome in an enjoyable and supportive manner while also monitoring their development. It is a pleasant and approachable learning tool for kids aged 6 to 15.",
+
+    "link": "https://github.com/Mark-WebHabit/downSyncv2"
+  },
+  {
+    "id": 9,
+    "type": "Web",
+    "title": "Laundnet",
+    "desc": "Laundnet aims to simplify walk-in scheduling and reservations for customers who wish to get their laundry done and remotely check their items via a web application.",
+    "link": "https://github.com/Mark-WebHabit/laundnet"
+  },
+  {
+    "id": 10,
+    "type": "Web",
+    "title": "Council",
+    "desc": "The Council app is designed to be used by an organization within a particular school and seeks to make it simple for students and staff to stay informed about events happening within the school.",
+    "link": "https://github.com/Mark-WebHabit/councilv2"
+  }
+]
